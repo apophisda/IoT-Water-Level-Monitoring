@@ -13,7 +13,7 @@ This repository contains the code, report, and PowerPoint presentation for an Io
 ## Project Files
 - **[Code](resources/code/esp32_working.c):** The C code for the ESP32 microcontroller.
 - **[Report](resources/report/report.pdf):** The project report detailing the implementation and findings.
-- **[Presentation]([link_to_presentation](https://tome.app/abracadubra-a7c/iot-based-water-level-monitoring-system-clugrlts24zvnpr673s615j6v)):** The PowerPoint presentation for the project.
+- **[Presentation]([https://tome.app/abracadubra-a7c/iot-based-water-level-monitoring-system-clugrlts24zvnpr673s615j6v]):** The PowerPoint presentation for the project.
 
 ## Project Implementation
 The project was implemented using the Arduino IDE and various libraries, including Blynk and Adafruit SSD1306. The ESP32 microcontroller was programmed to collect data from the ultrasonic sensor, display it on the OLED display, and send it to the Blynk app for remote monitoring. Notifications are sent to users via the Blynk app in case of critical water levels.
