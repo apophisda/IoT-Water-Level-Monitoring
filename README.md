@@ -38,6 +38,10 @@ To use the water level monitoring system, follow these steps:
 - **[Vedant Kumar](https://www.linkedin.com/in/vedant-kumar-2249b0254/) (Team Lead):** - Led the project development, implemented code, and ensured project milestones were met.
 - **[Vishal Singh](https://www.linkedin.com/in/vishal-singh-326b97227/) (Team Member):** -  Contributed to the development of the project, coordinated tasks, and assisted with testing and documentation.
 
+## Credits
+- Website: [IoT CircuitHub](https://iotcircuithub.com/)
+- YouTube Channel: [Tech StudyCell](https://www.youtube.com/channel/UCMg4OFH7TA_pVm8cJcspfaQ)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
