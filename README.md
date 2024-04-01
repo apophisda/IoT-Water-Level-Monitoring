@@ -1,7 +1,8 @@
 # IoT-Based Water Level Monitoring System
 
 ## Overview
-This repository contains the code, report, and PowerPoint presentation for an IoT-based water level monitoring system developed by Vishal Singh and led by Vedant Kumar. The system utilizes an ESP32 microcontroller, ultrasonic sensor, and Blynk app to monitor water levels in tanks remotely and provide real-time notifications to users.
+This repository contains the code, report, and PowerPoint presentation for an IoT-based water level monitoring system developed by Vishal Singh and led by Vedant Kumar. The system utilizes an ESP32 microcontroller, ultrasonic sensor, and Blynk app to monitor water levels in tanks remotely and provide real-time notifications to users. Special thanks to [IoT CircuitHub](https://iotcircuithub.com/) for providing valuable resources and [Tech StudyCell](https://www.youtube.com/channel/UCMg4OFH7TA_pVm8cJcspfaQ) for insightful tutorials.
+
 
 ## Project Components
 - **ESP32 Microcontroller:** Acts as the central hub for collecting data from the ultrasonic sensor and interfacing with the Blynk app.
